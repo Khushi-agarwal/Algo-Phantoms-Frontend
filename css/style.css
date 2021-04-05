@@ -379,6 +379,8 @@ hr {
     overflow: hidden;
     object-fit: cover;
     position: right;
+    margin-left:50px;
+    margin-top: 10px;
 }
 
 
